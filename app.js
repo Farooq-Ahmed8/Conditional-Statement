@@ -77,22 +77,21 @@
 
 // Simple Calculator 
 
-let numOne = +prompt("Enter the First Number");
-let numTwo = +prompt("Enter the Second Number");
+// let numOne = +prompt("Enter the First Number");
+// let numTwo = +prompt("Enter the Second Number");
 
-let operators = prompt("+ - * / %");
+// let operators = prompt("+ - * / %");
 
-if(operators === "+"){
-    console.log(numOne + numTwo);    
-}else if(operators === "-"){
-    console.log(numOne - numTwo);    
-}else if(operators === "*"){
-    console.log(numOne * numTwo);    
-}else if(operators === "/"){
-    console.log(numOne / numTwo);    
-}else if(operators === "%"){
-    console.log(numOne % numTwo);    
-}else{
-    console.log("Invalid Number");
-    
-}
+// if(operators === "+"){
+//     console.log(numOne + numTwo);    
+// }else if(operators === "-"){
+//     console.log(numOne - numTwo);    
+// }else if(operators === "*"){
+//     console.log(numOne * numTwo);    
+// }else if(operators === "/"){
+//     console.log(numOne / numTwo);    
+// }else if(operators === "%"){
+//     console.log(numOne % numTwo);    
+// }else{
+//     console.log("Invalid Number");  
+// }
